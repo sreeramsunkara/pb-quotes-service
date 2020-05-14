@@ -1,0 +1,6 @@
+source: 
+  git:
+    url: https://github.com/sreeramsunkara/pb-quotes-service.git
+    revision: master
+image:
+  tag: sreeramsunkara/pb-quotes-service

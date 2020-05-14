@@ -1,0 +1,11 @@
+pivotal:
+  quotes:
+    quote_url: https://cloud.iexapis.com/stable/stock/VMW/quote?token=pk_37e2bcea625141a6bcc73a7a16d91fc7
+    quotes_url: https://cloud.iexapis.com/stable/stock/market/batch?symbols=VMW,IBM,AAPL&types=quote&token=pk_37e2bcea625141a6bcc73a7a16d91fc7
+    companies_url: https://cloud.iexapis.com/stable/stock/VMW/company?token=pk_37e2bcea625141a6bcc73a7a16d91fc7
+
+logging:
+  level:
+    org:
+      apache:
+        http: debug
